@@ -1,0 +1,6 @@
+framework module Pods_LucasFilms_LucasFilmsUITests {
+  umbrella header "Pods-LucasFilms-LucasFilmsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

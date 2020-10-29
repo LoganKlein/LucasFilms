@@ -1,0 +1,6 @@
+framework module Pods_LucasFilms {
+  umbrella header "Pods-LucasFilms-umbrella.h"
+
+  export *
+  module * { export * }
+}
